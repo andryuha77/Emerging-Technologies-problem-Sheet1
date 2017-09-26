@@ -20,4 +20,5 @@ print()
 print("List 1: " + str(list1))
 print("List 2: " + str(list2))
 print("New List: " + str(listNew))
-print("Sorted List: " + str(sorted(listNew))) # Adapted from https://docs.python.org/3/howto/sorting.html
+# Adapted from https://docs.python.org/3/howto/sorting.html
+print("Sorted List: " + str(sorted(listNew)))

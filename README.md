@@ -3,18 +3,6 @@ Solutions to problem sheet 1 for [Emerging Technologies](https://emerging-techno
 The module is taught to undergraduate students at [GMIT](http://www.gmit.ie) in the Department of Computer Science and Applied Physics.
 The lecturer is [Ian McLoughlin](https://ianmcloughlin.github.io).
 
-## How to run the scripts:
-* Clone repository 
-```
-git clone https://github.com/andryuha77/Emerging-Technologies-problem-Sheet1.git
-```
-* cd to folder containing the files
-* run the files using:  
-```
-python firstprogram.py
-```
-
-
 # Problems - Python
 These are a few problems from around the internet to learn the fundamentals of [Python](https://www.python.org/).
 Create a repository on [GitHub](https://github.com/) to store your answers, complete with a README.

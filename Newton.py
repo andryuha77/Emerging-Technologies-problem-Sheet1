@@ -1,5 +1,7 @@
+# Implement the square root function using Newton's method. 
 import math
 
+#get imput from user
 x = float(input("Enter a number: "))
 y = float(input("Sqrt guess: "))
 
