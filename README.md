@@ -82,3 +82,17 @@ How close are you to the [math.sqrt](https://docs.python.org/2/library/math.html
 
 ## 10. Reverse string
 Write a function to reverse a string.
+
+
+## How to run?
+
+Python required to running the scripts. 
+
+Can be easily achieved by installing: [Anaconda](https://www.anaconda.com/download/)
+
+cd to the repository folder.
+
+To run any file use: 
+
+``` python (File-Name).py ```
+
